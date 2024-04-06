@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tax_Calculator {
+public class Price_with_Tax_Calculator {
     public static void main(String[] args) {
         double price, priceWithTax, tax = 0.18;
 
